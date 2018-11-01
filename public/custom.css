@@ -5,6 +5,10 @@ img {
   max-height: 100%;
 }
 
+.sourcemaps img {
+  width: 80%;
+}
+
 .motorcycle img {
   position: relative;
   top: -45px;
