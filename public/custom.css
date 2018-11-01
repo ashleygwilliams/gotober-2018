@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:300,400,700');
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.motorcycle img {
+  position: relative;
+  top: -45px;
+}
+
+.ag_dubs {
+  position: relative;
+  top: -60px;
+}
+
+.doctor img {
+  position: absolute;
+  bottom: 20px;
+  width: 350px;
+  right: 60px;
+}
+
+.sherlock img {
+  position: absolute;
+  width: 350px;
+  bottom: 20px;
+  left: 60px;
+}
+
+.no img, .warn img {
+  width: 400px;
+}
+
+.wreck img {
+  width: 700px;
+  position: relative;
+  top: -40px;
+}
+
+.architecture img {
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+  width: 400px;
+}
+
+.microservices img {
+  width: 600px;
+}
+
+.measure img {
+  width: 400px;
+}
+
+.community img {
+  position: absolute;
+  bottom: 20px;
+  right: 60px;
+  width: 450px;
+}
+
+.docs img {
+  position: absolute;
+  bottom: 20px;
+  width: 450px;
+  right: 60px;
+}
+
+.tools img {
+  position: absolute;
+  width: 450px;
+  bottom: 100px;
+  right: 60px;
+}
+
+.burnout img {
+  width: 450px;
+}
+
+.trashfire img {
+  width: 550px;
+}
+
+.sonic img {
+  width: 600px;
+}
+
+.logs {
+  position: absolute;
+  bottom: 20px;
+  right: 60px;
+  width: 720px;
+}
+
+.programming img {
+  width: 400px;
+}
+
+.slack2 img {
+  width:500px;
+}
+
+.twitter img {
+  width: 550px;
+}
+
+.twitterslack img {
+  width: 500px;
+}
+
+.teacher img {
+  position: relative;
+  left: 250px;
+  width: 450px;
+}
+
+.real-big {
+  font-size: 2em;
+}
+
+.advice img {
+  width: 400px;
+}
+
+body {
+  font-family: 'Comfortaa', sans-serif;
+}
+
+.remark-slide-content {
+  background-color: #F5F4F1;
+}
+
+h1, h2 {
+  padding: 10px 20px;
+  font-weight: 300;
+}
+
+.tip {
+  display: block;
+  font-size: 4em;
+  font-weight: 300;
+}
+
+.tip-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.tip-title, .tip {
+  position: relative;
+}
+
+blockquote {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+blockquote::before {
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+  content: '“';
+  position: absolute;
+  display: inline-block;
+  top: 150px;
+  margin-left: -2.2em;
+  width: 2em;
+  text-align: right;
+  font-size: 120px;
+}
+
+.highlight-red {
+  text-shadow: 1px 1px 0px #F74C00;
+}
+
+.highlight-yellow {
+  text-shadow: 1px 1px 0px #F49600;
+}
+
+.highlight-blue {
+  text-shadow: 1px 1px 0px #01346B;
+}
+
+pre, code {
+  background-color: #4e4e4e;
+  color: #e6e6e6;
+  padding: 15px;
+}
+
+a:visited, a:active, a {
+  color: black;
+}
+
+.real-big {
+  font-size: 2em;
+}
+
+.citation {
+  font-size: 0.7em;
+  padding: 5px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
