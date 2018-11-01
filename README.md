@@ -1,5 +1,5 @@
-# rustfest-2017
-> presentation for 2017 edition of rustfest in kiev, ukraine, http://2017.rustfest.eu/
+# gotober-2017
+> presentation for 2018 edition of gotoBer in berlin, germany, https://gotober.com/2018
 
 
 ## abstract
